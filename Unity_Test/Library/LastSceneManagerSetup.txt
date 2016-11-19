@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Volt_Platformer.unity
-  isLoaded: 1
-  isActive: 1
